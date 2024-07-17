@@ -1,0 +1,2 @@
+runMyxoGen.m is the main file to run the finite difference code. It solves the dimensional version of the system, but can easily be changed to solve the nondimensional system instead. This change was tested and produces equivalent results.
+The other files are dependencies with the exception of the "profileAnalysis*" files and "myxo_gen_nondim.m", the latter of which is a nondimensionalized version of the code.
